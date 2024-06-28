@@ -26,7 +26,7 @@ Our GitHub repositories will feature a range of projects, including:
 We welcome contributions from the community! Here’s how you can get involved:
 1. **Fork our repositories** and submit pull requests with your improvements and bug fixes.
 2. **Open issues** to report bugs, suggest features, or ask questions.
-3. **Join our discussions** on threat intelligence and cybersecurity topics in our [discussion forum](https://github.com/orgs/OpliumThreatLabs/discussions).
+3. **Join our discussions** on threat intelligence and cybersecurity topics in our [discussion forum](https://github.com/orgs/oplium-threat-labs/discussions).
 
 ## Contact Us
 
