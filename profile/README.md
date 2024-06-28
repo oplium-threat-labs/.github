@@ -32,7 +32,8 @@ We welcome contributions from the community! Here’s how you can get involved:
 
 For more information, you can reach out to us via:
 - **Email**: [labs@oplium.com](mailto:labs@oplium.com)
-- **Website**: [Oplium Threat Labs](https://oplium.com/threatlabs)
+- **Website**: <a href="https://oplium.com/threatlabs" target="_blank">Oplium Threat Labs</a>
+- **Twitter**: <a href="https://x.com/opliumlabs" target="_blank">@opliumlabs</a>
 
 ## License
 
